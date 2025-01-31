@@ -1,0 +1,38 @@
+h1 {
+    color: orange;
+    text-shadow: 2px 0px 0px black;
+
+} 
+
+#intro{
+    padding-left: 100px;
+}
+
+#main-heading{
+    font-size: 24px;
+
+}
+
+b{
+    font-size: 45px;
+}
+
+image {
+    float: left;
+}
+
+a{
+    color: orange;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    padding-left: 20px;
+}
+
+ul{
+    margin-right:100px;
+}
