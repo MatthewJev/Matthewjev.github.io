@@ -23,6 +23,11 @@ image {
 
 a{
     color: orange;
+    
+}
+
+a:hover ,a:focus{
+    color: green;
 }
 
 footer{
