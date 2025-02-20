@@ -14,6 +14,7 @@ header{
     justify-content: space-between; /*creates space between logo and cart*/
     display: flex;   /*makes it easier to move cart-icon as desired*/
     align-items: center;
+    align-self: end;
 }
 
 .logo{
